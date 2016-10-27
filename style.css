@@ -42,6 +42,11 @@ height: 3000px;
   color: white;
 }
 
+ul {
+	
+  list-style-type: none;
+}
+
 /* ----------------------   */
 
 
